@@ -1,0 +1,44 @@
+h2 {
+    padding: 10%;
+}
+
+hr {
+    margin: -100px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+div {
+    padding: 10%;
+}
+
+div p .one {
+color: blue;
+}
+
+div p .tow a {
+
+    color: orange;
+    }
+
+    div p .three  {
+
+        color: blue;
+        }
+
+        div p .four  a  {
+
+            color: orange;
+            }
+
+            ul li a {
+                color: red;
+            }
+
+            ul .one {
+                color: blue;
+            }
+
+            ul .tow {
+                color: blue;
+            }
